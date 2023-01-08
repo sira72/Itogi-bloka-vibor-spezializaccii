@@ -1,0 +1,5 @@
+C:\Users\P\Desktop\итоги блока выбор специализации\obj\Debug\net6.0\итоги блока выбор специализации.csproj.AssemblyReference.cache
+C:\Users\P\Desktop\итоги блока выбор специализации\obj\Debug\net6.0\итоги блока выбор специализации.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\P\Desktop\итоги блока выбор специализации\obj\Debug\net6.0\итоги блока выбор специализации.AssemblyInfoInputs.cache
+C:\Users\P\Desktop\итоги блока выбор специализации\obj\Debug\net6.0\итоги блока выбор специализации.AssemblyInfo.cs
+C:\Users\P\Desktop\итоги блока выбор специализации\obj\Debug\net6.0\итоги блока выбор специализации.csproj.CoreCompileInputs.cache
